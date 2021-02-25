@@ -1,6 +1,6 @@
 <p style="text-align: center;" width="100%" align="center">
   <a href="https://uello.com.br"  target="blank" title="Uello">
-    <img src="./.github/logo.svg" width="250" style="width: 250px;" />
+    <img src="./.github/logo.png" width="250" style="width: 250px;" />
   </a>
 </p>
 
